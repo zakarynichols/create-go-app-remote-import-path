@@ -1,0 +1,19 @@
+{
+  "name": "create-go-app-remote-import-path",
+  "homepage": "https://create-go-app.com",
+  "version": "0.1.0",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakarynichols/create-go-app-remote-import-path.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakarynichols/create-go-app-remote-import-path/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
